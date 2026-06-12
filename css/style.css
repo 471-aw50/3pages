@@ -1,9 +1,12 @@
 :root {
-  --bs-primary-rgb: 189, 93, 56;
+  --bs-primary-rgb: 0, 107, 89;
 }
 body {
   padding-top: 3.375rem;
-  color: #6c757d;
+  color: #eeeeee;
+}
+.container-fluid {
+  background-color: rgb(28, 33, 32);
 }
 
 @media (min-width: 992px) {
